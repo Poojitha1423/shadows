@@ -1,0 +1,10 @@
+h2 {
+    text-shadow: 2px 1px blue;
+    font-style: italic;
+    padding-right: 8PX;
+}
+h3 {
+    text-shadow: 2px 2px blueviolet;
+    font-style: oblique;
+    box-sizing: border-box;
+}
